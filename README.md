@@ -1,4 +1,4 @@
-# Sip Atelier 🍃
+# Sip Atelier 
 
 A premium, modern, fully responsive tea e-commerce website built with React, Tailwind CSS, and React Router.
 
