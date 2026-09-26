@@ -23,4 +23,4 @@ A premium, modern, fully responsive tea e-commerce website built with React, Tai
 - **Context API** — cart and wishlist state, persisted to localStorage
 - **Vite** — build tool
 
-# Live-Link: peppy-vacherin-e9c793.netlify.app
+## Live-Link: peppy-vacherin-e9c793.netlify.app
