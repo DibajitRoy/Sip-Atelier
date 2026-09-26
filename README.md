@@ -1,16 +1,26 @@
-# React + Vite
+# Sip Atelier 🍃
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A premium, modern, fully responsive tea e-commerce website built with React, Tailwind CSS, and React Router.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Browse tea products by category (Black, Green, Milk, Herbal, Premium)
+- Product search, filtering, and sorting (price, rating, newest)
+- Product details with image gallery, weight selector (100g–1kg), and quantity selector
+- Shopping cart with coupon codes and live total calculation
+- Wishlist (heart) toggle on every product
+- Checkout with form validation (Bangladeshi phone number, division/district)
+- Order confirmation and order tracking
+- Login / Register pages
+- Fully responsive (mobile, tablet, desktop)
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React 19** — functional components and hooks
+- **React Router v7** — client-side routing
+- **Tailwind CSS 3** — styling
+- **Lucide React** — icons
+- **Context API** — cart and wishlist state, persisted to localStorage
+- **Vite** — build tool
 
-## Expanding the Oxlint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+# Live-Link: peppy-vacherin-e9c793.netlify.app
