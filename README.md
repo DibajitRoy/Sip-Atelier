@@ -1,6 +1,6 @@
 # Sip Atelier
 
-A modern and responsive tea e-commerce frontend built with React and Vite. Sip Atelier provides a clean shopping experience with product browsing, cart management, wishlist, checkout, and order tracking.
+A modern  tea e-commerce frontend built with React and Vite. Sip Atelier provides a clean shopping experience with product browsing, cart management, wishlist, checkout, and order tracking.
 
 ## 🚀 Live Demo
 
